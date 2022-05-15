@@ -1,0 +1,18 @@
+html,
+body {
+  height: 100% ;
+}
+
+.x_panel {
+  min-height: 83vh ;
+}
+
+/*.nav_menu{
+                height:45px;
+            }*/
+#datatable_length p {
+  color: #c71f35;
+}
+form:after {
+  clear: none ;
+}
